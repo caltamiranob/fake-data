@@ -1,30 +1,30 @@
 {
-"encomiendas" : [
-  {
-    id: 1,
-    fecha: "16/01/2020",
-    documento: "BOLETA DE PAGO",
-    serie: "B001",
-    numero: "00000001",
-    seleccionado: false
-  },
-  {
-    id: 2,
-    fecha: "18/01/2020",
-    documento: "BOLETA DE PAGO",
-    serie: "B002",
-    numero: "00000002",
-    seleccionado: false
-  },
-  {
-    id: 3,
-    fecha: "17/01/2020",
-    documento: "FACTURA DE PAGO",
-    serie: "F001",
-    numero: "00000003",
-    seleccionado: false
-  }
-],
+  "encomiendas" : [
+    {
+      id: 1,
+      fecha: "16/01/2020",
+      documento: "BOLETA DE PAGO",
+      serie: "B001",
+      numero: "00000001",
+      seleccionado: false
+    },
+    {
+      id: 2,
+      fecha: "18/01/2020",
+      documento: "BOLETA DE PAGO",
+      serie: "B002",
+      numero: "00000002",
+      seleccionado: false
+    },
+    {
+      id: 3,
+      fecha: "17/01/2020",
+      documento: "FACTURA DE PAGO",
+      serie: "F001",
+      numero: "00000003",
+      seleccionado: false
+    }
+  ],
   "profile": {
     "name": "fake-data"
   }
