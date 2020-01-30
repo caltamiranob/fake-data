@@ -24,8 +24,5 @@
       numero: "00000003",
       seleccionado: false
     }
-  ],
-  "profile": {
-    "name": "fake-data"
-  }
+  ]
 }
